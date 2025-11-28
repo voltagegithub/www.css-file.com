@@ -1188,7 +1188,7 @@ footer .footer-bottom .container .links a:first-child::before {
   width: 100%;
   min-height: 200px;
   border-radius: 10px;
-  background-image: url(../apps/main/public/img/homepage/66315deb32012c249564aab3Header7.png);
+  background-image: url(../apps/main/public/img/footer/discordbg.png);
   background-size: cover;
   background-position: center center;
 }
@@ -3748,7 +3748,7 @@ footer .footer-bottom .container .links a:first-child::before {
     width: 100%;
     min-height: 200px;
     border-radius: 10px;
-    background-image: url(../apps/main/public/img/homepage/66315deb32012c249564aab3Header7.png);
+    background-image: url(../apps/main/public/img/footer/discordbg.png);
     background-size: cover;
     background-position: center center;
   }
